@@ -6,7 +6,7 @@
 
 * The job was required by a brazilian coffee exportation company, located in Espírito Santo (one of the southeast estates in Brazil).
 
-* Firstly, I thinked in the whole desgin part by analising the companny style and their logo colors. Secondly, started to code the web page with pure HTML, CSS and JS.
+* Firstly, I thinked in the whole desgin part by analising the company style and their logo colors. Secondly, started to code the web page with pure HTML, CSS and JS.
 
 * The page includes six sections: Home; Business; About; Address; Contact; Legal Publications.
 
