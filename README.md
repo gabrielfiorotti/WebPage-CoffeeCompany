@@ -6,11 +6,11 @@
 
 * The job was required by a brazilian coffee exportation company, located in Espírito Santo (one of the southeast estates in Brazil).
 
-* Firstly, I thinked in the whole desgin part by analising the company style and their logo colors. Secondly, started to code the web page with pure HTML, CSS and JS.
+* Firstly, I thinked in the whole design part by analysing the company style and their logo colors. Secondly, started to code the web page with pure HTML, CSS and JS.
 
-* The page includes six sections: Home; Business; About; Address; Contact; Legal Publications.
+* The page includes six sections: Home; Business; About; Address; Contact and Legal Publications.
 
-* Responsiveness available for mobile, laptops, and fullHD monitors.
+* Responsiveness available for mobile, laptops and fullHD monitors.
 
 Note 1: the contact form was made with an API endpoint that you can connect to a HTML form in order to handle form submission, since I
 don't have enough knowledge on backend yet;
