@@ -2,16 +2,20 @@
 
 ### Explanation
 
-    * My first real life project as a freelancer, 4 months after starting studies on IT field.
+* My first real life project as a freelancer, 4 months after starting studies on IT field.
 
-    * The job was required by a brazilian coffee exportation company, located in Espírito Santo (one of the southeast estates in Brazil).
+* The job was required by a brazilian coffee exportation company,located in Espírito Santo (one of the southeast estates in Brazil).
 
-    * Firstly, I thinked in the whole desgin part by analising the companny style and their logo colors. Secondly, started to code the web page with pure HTML, CSS and JS.
+* Firstly, I thinked in the whole desgin part by analising the companny style and their logo colors. Secondly, started to code the web page with pure HTML, CSS and JS.
 
-    * Responsiveness available for mobile, laptops, and fullHD monitors.
+* The page includes six sections: Home; Business; About; Address; Contact; Legal Publications.
 
-Note: if you translate the page with google translator the header menu navigation stops working.
+* Responsiveness available for mobile, laptops, and fullHD monitors.
+
+Note 1: the contact form was made with an API endpoint that you can connect to a HTML form in order to handle form submission, since I
+don't have enough knowledge on backend yet;
+
+Note 2: if you translate the page with google translator extension on Chrome the header menu navigation stops working.
 
 ### Result
-
-    * You can check the result at https://www.marcacafe.com.br
+* You can check the result at: https://www.marcacafe.com.br
